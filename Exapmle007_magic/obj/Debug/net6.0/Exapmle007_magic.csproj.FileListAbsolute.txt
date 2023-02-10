@@ -1,0 +1,15 @@
+F:\Learning\С#\GBExamples\Exapmle007_magic\bin\Debug\net6.0\Exapmle007_magic.exe
+F:\Learning\С#\GBExamples\Exapmle007_magic\bin\Debug\net6.0\Exapmle007_magic.deps.json
+F:\Learning\С#\GBExamples\Exapmle007_magic\bin\Debug\net6.0\Exapmle007_magic.runtimeconfig.json
+F:\Learning\С#\GBExamples\Exapmle007_magic\bin\Debug\net6.0\Exapmle007_magic.dll
+F:\Learning\С#\GBExamples\Exapmle007_magic\bin\Debug\net6.0\Exapmle007_magic.pdb
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.csproj.AssemblyReference.cache
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.AssemblyInfoInputs.cache
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.AssemblyInfo.cs
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.csproj.CoreCompileInputs.cache
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.dll
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\refint\Exapmle007_magic.dll
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.pdb
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\Exapmle007_magic.genruntimeconfig.cache
+F:\Learning\С#\GBExamples\Exapmle007_magic\obj\Debug\net6.0\ref\Exapmle007_magic.dll
