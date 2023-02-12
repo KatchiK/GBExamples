@@ -1,0 +1,15 @@
+F:\Learning\С#\GBExamples\Example010_introArray\bin\Debug\net7.0\Example010_introArray.exe
+F:\Learning\С#\GBExamples\Example010_introArray\bin\Debug\net7.0\Example010_introArray.deps.json
+F:\Learning\С#\GBExamples\Example010_introArray\bin\Debug\net7.0\Example010_introArray.runtimeconfig.json
+F:\Learning\С#\GBExamples\Example010_introArray\bin\Debug\net7.0\Example010_introArray.dll
+F:\Learning\С#\GBExamples\Example010_introArray\bin\Debug\net7.0\Example010_introArray.pdb
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.csproj.AssemblyReference.cache
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.AssemblyInfoInputs.cache
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.AssemblyInfo.cs
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.csproj.CoreCompileInputs.cache
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.dll
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\refint\Example010_introArray.dll
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.pdb
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\Example010_introArray.genruntimeconfig.cache
+F:\Learning\С#\GBExamples\Example010_introArray\obj\Debug\net7.0\ref\Example010_introArray.dll
